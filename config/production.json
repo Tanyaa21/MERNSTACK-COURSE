@@ -1,0 +1,7 @@
+{
+    "mongoURI": "mongodb+srv://Tanya21:HuyDkJGTrBJyQXje@devconnects.hxiqg.mongodb.net/DataBase1?retryWrites=true&w=majority",
+    "jwtSecret": "mysecrettoken",
+    "githubClientId": "",
+    "githubSecret": ""
+  }
+  
